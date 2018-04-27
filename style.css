@@ -1,0 +1,18 @@
+   h1{
+
+  font-family: verdana;
+  color:blue;
+}
+
+ h2{
+  font-family: verdana;
+  color:blue;
+}
+
+p{
+ font-family: verdana;
+}
+
+body {
+    background: linear-gradient(to bottom, #ffffcc 32%, #ffffff 100%)
+}
